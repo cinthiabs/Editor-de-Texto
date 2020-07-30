@@ -1,0 +1,10 @@
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\EDITOR_DE_TEXTO\EDITOR_DE_TEXTO\bin\Debug\EDITOR_DE_TEXTO.exe.config
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\EDITOR_DE_TEXTO\EDITOR_DE_TEXTO\bin\Debug\EDITOR_DE_TEXTO.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\EDITOR_DE_TEXTO\EDITOR_DE_TEXTO\bin\Debug\EDITOR_DE_TEXTO.pdb
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\EDITOR_DE_TEXTO\EDITOR_DE_TEXTO\obj\Debug\EDITOR_DE_TEXTO.csprojAssemblyReference.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\EDITOR_DE_TEXTO\EDITOR_DE_TEXTO\obj\Debug\EDITOR_DE_TEXTO.FrmEditor.resources
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\EDITOR_DE_TEXTO\EDITOR_DE_TEXTO\obj\Debug\EDITOR_DE_TEXTO.Properties.Resources.resources
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\EDITOR_DE_TEXTO\EDITOR_DE_TEXTO\obj\Debug\EDITOR_DE_TEXTO.csproj.GenerateResource.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\EDITOR_DE_TEXTO\EDITOR_DE_TEXTO\obj\Debug\EDITOR_DE_TEXTO.csproj.CoreCompileInputs.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\EDITOR_DE_TEXTO\EDITOR_DE_TEXTO\obj\Debug\EDITOR_DE_TEXTO.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\EDITOR_DE_TEXTO\EDITOR_DE_TEXTO\obj\Debug\EDITOR_DE_TEXTO.pdb
